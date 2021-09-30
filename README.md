@@ -17,7 +17,10 @@ seaborn
 plotly
 
 ### Motivations
-this repo for movies analysis from 2000 to 2017. it can help movies lovers to find the best movies to watch
+Which genre has the most movie count?
+Which year has the most movie count?
+Which genre has the most runtime(minutes)?
+Which genre of movies was released first?
 
 ### Structure:
 - data reading
@@ -29,6 +32,9 @@ this repo for movies analysis from 2000 to 2017. it can help movies lovers to fi
 - Run time Minutes Density
 - The start Year for each title Type
 
+### acknowledgments
+- Udacity 
+- The Data was taking from ( https://www.imdb.com/interfaces/ )
 
 ## File Desriptions
 Files:
@@ -44,4 +50,3 @@ Files:
 
 #### The Genre has the longest runtime minutes is Family.
 
-##### The Data was taking from ( https://www.imdb.com/interfaces/ )
